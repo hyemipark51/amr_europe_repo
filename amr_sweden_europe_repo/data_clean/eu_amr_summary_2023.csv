@@ -1,0 +1,6 @@
+indicator,organism,resistance_marker,geography,year,value,unit,change_vs_2019,eu_2030_target,target_status_2023
+MRSA bloodstream infection incidence,Staphylococcus aureus,methicillin resistant,EU/EEA,2023,4.64,"per 100,000 population",17.6% lower than 2019,4.79,Below target
+Third-generation cephalosporin-resistant E. coli bloodstream infection incidence,Escherichia coli,third-generation cephalosporin resistant,EU/EEA,2023,10.35,"per 100,000 population",3.6% lower than 2019,9.67,Above target
+Carbapenem-resistant Klebsiella pneumoniae bloodstream infection incidence,Klebsiella pneumoniae,carbapenem resistant,EU/EEA,2023,3.97,"per 100,000 population",57.5% higher than 2019,2.45,Above target
+Third-generation cephalosporin-resistant E. coli proportion among invasive isolates,Escherichia coli,third-generation cephalosporin resistant,EU/EEA,2023,16.2,percent,"Significant decreasing trend over 2019–2023, but annual increases in 2022 and 2023",NA,NA
+MRSA proportion among invasive isolates,Staphylococcus aureus,methicillin resistant,EU/EEA,2023,15.8,percent,Down from 18.2% in 2019,NA,NA

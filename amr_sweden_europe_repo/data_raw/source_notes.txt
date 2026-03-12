@@ -1,0 +1,17 @@
+Starter data notes
+
+1) The included antibiotic consumption panel is manually curated from ECDC ESAC-Net 2023 annual epidemiological report, Table 2.
+2) Exact country-year AMR values are not fully included in this starter pack because the machine-readable files were not directly retrievable in this environment.
+3) Instead, this pack includes EU-level AMR summary indicators from the ECDC EARS-Net 2023 annual epidemiological report.
+4) The intended next step is to add country-level AMR values from ECDC country summaries / Surveillance Atlas and then optionally add WHO GLASS global benchmarks (for example India).
+
+Known missing values in the included consumption panel:
+- Cyprus 2023 missing in the report table.
+- Sweden 2023 missing in the report table.
+- Germany 2019-2022 not directly comparable in the table because hospital-sector data were unavailable for those years; 2023 total is shown.
+
+Suggested first GitHub figures:
+- EU/EEA ranking in 2023 antibiotic consumption
+- 2019-2023 trend lines for Sweden, Netherlands, Germany, Greece, Romania
+- EU-level AMR summary bar chart (three indicators)
+- Optional extension: Sweden vs India using WHO GLASS / OWID data
